@@ -11,7 +11,7 @@ This is the official repository of Tech-Cult club of Prof Ram meghe college of e
 ## Projects
 Here is the list of active SecAlm projects
 
-1. Start Here Guidelines
+1. Start Here Guidelines (Will be available soon) 
 * A starting project where everyone has to add there name by sending a pull request 
 ---------------------------------------------
  
