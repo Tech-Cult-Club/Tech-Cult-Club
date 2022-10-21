@@ -35,8 +35,10 @@ Here is the list of active SecAlm projects
 | Name  | Account Links |
 | ------------- | ------------- |
 |Mohit Dhote    | https://github.com/mohitd404  |
-| Kalyani Mhala | https://github.com/kalyani2003|
-| Jay Bhakte    | https://github.com/jaybhakte  |
+|Kalyani Mhala | https://github.com/kalyani2003|
+|Sharvari Agrawal| https://github.com/SharvariAgrawal|
+|Jay Bhakte    | https://github.com/jaybhakte  |
+|Sanket More | https://github.com/SanketMore1| 
 |Vedant Datey |https://github.com/vedant2608|
 
 
